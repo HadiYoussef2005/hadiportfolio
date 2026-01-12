@@ -10,6 +10,9 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
 export const metadata: Metadata = {
+  verification: {
+    google: '-5zFnyoPsoIVXoZgzcQggcPDF26xnBtht9SpPXUNEIs',
+  },
   title: {
     default: 'Hadi Youssef | Software Engineer & Developer',
     template: '%s | Hadi Youssef'
