@@ -17,7 +17,7 @@ const About = () => {
                             <h2 className="text-3xl font-bold mb-6">About Me</h2>
                             <div className="text-muted-foreground space-y-4 leading-relaxed">
                                 <p>
-                                    I am a Software Engineering and Business student at Western University and the Ivey Business School with a passion for building at the intersection of technology, research, and entrepreneurship.
+                                    I&apos;m <strong>Hadi Youssef</strong>, a Software Engineering and Business student at Western University and the Ivey Business School with a passion for building at the intersection of technology, research, and entrepreneurship.
                                 </p>
                                 <p>
                                     In my previous experience, I gained hands-on experience as a Machine Learning Research Intern, co-authoring peer-reviewed work on improving large language model accuracy, and as a Software Engineering Intern at SwarmZero, contributing to agent workflows and infrastructure for a successful product launch.
